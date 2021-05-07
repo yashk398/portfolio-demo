@@ -1,0 +1,94 @@
+[
+  {
+    "id": 0,
+    "brand": "Samsung",
+    "model": "Galaxy Note 20 Ultra",
+    "type": "fullscreen-hole-punch-center",
+    "colors": ["red", "white", "black", "rose-gold"],
+    "memory": 8,
+    "storage": 128,
+    "price": 108000,
+    "screen": {
+      "size": 6.4,
+      "type": "amoled",
+      "refresh-rate": 120,
+      "touch-sampling": 120,
+      "protection": "Gorilla Glass 5"
+    },
+    "battery": {
+      "capacity": 4500,
+      "charging": 65,
+      "wireless-charging": true,
+      "comments": null
+    }
+  },
+  {
+    "id": 1,
+    "brand": "Samsung",
+    "model": "Galaxy Note 20 Ultra",
+    "type": "fullscreen-hole-punch-center",
+    "colors": ["red", "white", "black", "rose-gold"],
+    "memory": 10,
+    "storage": 256,
+    "price": 118000,
+    "screen": {
+      "size": 6.4,
+      "type": "amoled",
+      "refresh-rate": 120,
+      "touch-sampling": 120,
+      "protection": "Gorilla Glass 5"
+    },
+    "battery": {
+      "capacity": 4500,
+      "charging": 65,
+      "wireless-charging": true,
+      "comments": null
+    }
+  },
+  {
+    "id": 2,
+    "brand": "Samsung",
+    "model": "Galaxy Note 20",
+    "type": "fullscreen-hole-punch-center",
+    "colors": ["white", "black", "rose-gold"],
+    "memory": 6,
+    "storage": 128,
+    "price": 98000,
+    "screen": {
+      "size": 6.3,
+      "type": "amoled",
+      "refresh-rate": 60,
+      "touch-sampling": 120,
+      "protection": "Gorilla Glass 5"
+    },
+    "battery": {
+      "capacity": 4000,
+      "charging": 45,
+      "wireless-charging": true,
+      "comments": null
+    }
+  },
+  {
+    "id": 3,
+    "brand": "Samsung",
+    "model": "Galaxy Note 20",
+    "type": "fullscreen-hole-punch-center",
+    "colors": ["white", "black", "rose-gold"],
+    "memory": 8,
+    "storage": 256,
+    "price": 105000,
+    "screen": {
+      "size": 6.3,
+      "type": "amoled",
+      "refresh-rate": 60,
+      "touch-sampling": 120,
+      "protection": "Gorilla Glass 5"
+    },
+    "battery": {
+      "capacity": 4000,
+      "charging": 45,
+      "wireless-charging": true,
+      "comments": null
+    }
+  }
+]

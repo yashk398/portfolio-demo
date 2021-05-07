@@ -1,0 +1,5 @@
+if  a phone exists in the json with the specs from json state, show list. ✔️
+else give an option to request a config. mail the json of state (try) with accepted email of the user.
+dark mode switch ✔️, amazon/ebay links, try apis for price info.
+floating navbar circle for phone and top navbar options - search, contact and list
+expand search list - limit to 5 ✔️ and on expand pass assorted list to another component
